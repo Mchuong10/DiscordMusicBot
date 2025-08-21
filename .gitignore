@@ -1,0 +1,20 @@
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets & local data
+.env
+*.db
+
+# Lavalink binary
+lavalink/Lavalink.jar
+
+# OS junk
+.DS_Store
+Thumbs.db
